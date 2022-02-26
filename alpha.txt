@@ -1,8 +1,4 @@
 Alpha Master
 
-
-
-
-
-two
-three
+aa
+one
